@@ -1,2 +1,2 @@
 # hello-world
-First example
+July 17, 2017 Hello, Open Source World
